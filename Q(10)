@@ -8,6 +8,6 @@ public class Main{
         n=n/10;
     }
     int first=n;
-    System.out.println(lastfirst);
+    System.out.println(last+first);
     }   
 }
